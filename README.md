@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lemon
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Coding
+- 😍 I love JavaScript language with it's Framework React
 - 🌱 I’m currently learning JavaScript Framework React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with web developers
+- 📫 How to reach me https://github.com/minthukha1288)https://github.com/minthukha1288
